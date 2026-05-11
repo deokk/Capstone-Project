@@ -10,13 +10,10 @@ venv/
 *.mex*
 
 # Large generated data
-data/*.dat
 
 # Model checkpoints
-results/*.pt
 
 # Result dat files
-results/*.dat
 
 # Logs
 *.log
